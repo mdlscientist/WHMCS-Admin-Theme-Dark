@@ -1,4 +1,3 @@
-# These are supported funding model platforms
-
-patreon: https://www.patreon.com/domain_labs
-custom: paypal:  scientist@mydomainlabs.com
+github: mdlscientist
+patreon: domain_labs
+custom: ["paypal.me/mydomainlabs", mydomainlabs.com]
